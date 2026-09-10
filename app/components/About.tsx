@@ -12,10 +12,9 @@ export function About() {
         </div>
         <div className="space-y-4 p-5">
           <p className="text-text-primary">
-            I&apos;m <span className="text-primary">Name</span>, a &quot;major&quot; student
-            at the University of South Carolina interested in...
+            I&apos;m <span className="text-primary">Caden Luksic</span>, I'm Majoring in Computer Science, I also work part-time as an undergrad at the University of South Carolina.
           </p>
-          <p className="text-text-secondary">I am looking for...</p>
+          <p className="text-text-secondary">I am currently an undergrad TA for Java 145 the intro programming class we have at UofSC. I have a slight focus on going into project managment.</p>
         </div>
       </article>
       <article className="panel">
@@ -32,7 +31,7 @@ export function About() {
           <PersonalDetail label={"GRADUATION"} detail={"Class of 2028"} />
           <PersonalDetail
             label={"STATUS"}
-            detail={"Looking for SWE internship"}
+            detail={"Working at USC, open to internships."}
           />
         </div>
       </article>
